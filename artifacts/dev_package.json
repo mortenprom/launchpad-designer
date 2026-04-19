@@ -8,13 +8,20 @@
 	},
 	"name": "prom-launchpad-designer",
 	"description": null,
-	"ver": "26.03.09.0945",
+	"ver": "26.04.19.1206",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
 	"excludeTemplateFiles": false,
 	"roles": [],
-	"apps": [],
+	"apps": [
+		{
+			"id": "f3fe73af-bef1-4e2d-9d1e-01f349917a07",
+			"application": "prom_launchpad_designer_template",
+			"title": "",
+			"description": ""
+		}
+	],
 	"api": [],
 	"odataSource": [],
 	"odataMock": [],
@@ -28,11 +35,84 @@
 	"reports": [],
 	"api_authentication": [],
 	"api_group": [],
-	"tile": [],
-	"tile_layout": [],
-	"category": [],
+	"tile": [
+		{
+			"id": "e87c2751-754e-4ce6-99b2-99025f1146e1",
+			"description": "Real-time progress, ETA, notifications",
+			"name": "prom-launchpad-designer-customer"
+		},
+		{
+			"id": "e3e92bc1-5f97-4dca-acdf-1b39888e5f27",
+			"description": "Job cards, tasks, AI assistance",
+			"name": "prom-launchpad-designer-technician"
+		},
+		{
+			"id": "b83bc863-aebe-4524-b8ce-88d36f42b2bd",
+			"description": "Handovers, upsell opportunities",
+			"name": "prom-launchpad-designer-sales"
+		},
+		{
+			"id": "4bdaf7f2-799b-45ed-bd93-b7f7d0f05b9a",
+			"description": "Past management, sustainable logistics",
+			"name": "prom-launchpad-designer-workshop"
+		},
+		{
+			"id": "490aec38-37d6-404e-b0c0-e2525b141a99",
+			"description": "CTI, 360° view, intelligent scheduling",
+			"name": "prom-launchpad-designer-advisor"
+		}
+	],
+	"tile_layout": [
+		{
+			"id": "e0a375ae-0021-4efa-837e-f28235ec7d53",
+			"NAME": "prom-launchpad-designer-purple-dark"
+		},
+		{
+			"id": "c965e3d2-3137-4577-9a27-fcefb94d700e",
+			"NAME": "prom-launchpad-designer-width-wide"
+		},
+		{
+			"id": "806195ab-3eeb-428e-81b7-c35e3bb0a18d",
+			"NAME": "prom-launchpad-designer-sales-light"
+		},
+		{
+			"id": "6df916f9-c9a2-448d-a3d1-10e79132bcc8",
+			"NAME": "prom-launchpad-designer-clickable"
+		},
+		{
+			"id": "2f0103e7-1df4-41c3-991a-6d03e9cb2039",
+			"NAME": "prom-launchpad-designer-purple-light"
+		},
+		{
+			"id": "247d4ff9-ad73-41c4-92fc-cbddc5eeaa0d",
+			"NAME": "prom-launchpad-designer-sales-dark"
+		}
+	],
+	"category": [
+		{
+			"id": "b25884d3-31d1-466c-9541-2998a16ef9c4",
+			"description": null,
+			"name": "prom-launchpad-designer-service"
+		},
+		{
+			"id": "5091ec6b-b67c-4348-90a9-18ccc60d7479",
+			"description": null,
+			"name": "prom-launchpad-designer-workshop"
+		},
+		{
+			"id": "24e28473-e54f-4d83-afba-e96c60262383",
+			"description": null,
+			"name": "prom-launchpad-designer-advisory"
+		}
+	],
 	"tilegroup_layout": [],
-	"launchpad": [],
+	"launchpad": [
+		{
+			"id": "6ccf5330-487d-44c6-bf44-4aa35baef4d4",
+			"name": "prom-launchpad-designer",
+			"description": null
+		}
+	],
 	"launchpad_layout": [],
 	"certificates": [],
 	"role": [],
@@ -43,7 +123,13 @@
 	"script_scheduler": [],
 	"wf_definition": [],
 	"connector": [],
-	"i18n": [],
+	"i18n": [
+		{
+			"id": "c8799fb1-e8e5-4c93-8e5a-645675fe37fe",
+			"name": "prom_launchpad_designer_template",
+			"description": null
+		}
+	],
 	"events": [],
 	"code_snippets": [],
 	"wf_determination": [],
@@ -57,5 +143,8 @@
 	"ai_tool": [],
 	"ai_guardrail": [],
 	"path_rewrite": [],
-	"vault": []
+	"font": [],
+	"vault": [],
+	"workflow": [],
+	"workflow_logs": []
 }

@@ -1,0 +1,24 @@
+{
+	"id": "c8799fb1-e8e5-4c93-8e5a-645675fe37fe",
+	"createdAt": "2026-03-09T08:50:31.668Z",
+	"createdBy": "morten@neptune-software.com",
+	"attributes": [],
+	"locales": [
+		{
+			"isoCode": "EN",
+			"locale": "en"
+		}
+	],
+	"name": "prom_launchpad_designer_template",
+	"description": null,
+	"fallbackLocale": "EN",
+	"application": "prom_launchpad_designer_template",
+	"ver": "26.03.09.0950",
+	"package": "7492849a-ec04-441d-b06b-79900e00872f",
+	"active": true,
+	"deleted": false,
+	"baseModelId": null,
+	"enhancedBy": [],
+	"baseModel": null,
+	"apps": []
+}
