@@ -1,19 +1,16 @@
 {
-	"id": "b25884d3-31d1-466c-9541-2998a16ef9c4",
-	"createdAt": "2026-03-09T08:53:02.536Z",
+	"id": "33a389cc-033c-4e95-b3fe-148a5ffa14f4",
+	"createdAt": "2026-04-20T15:39:18.316Z",
 	"createdBy": "morten@neptune-software.com",
 	"translation": [],
 	"tilesOrder": [
-		"b83bc863-aebe-4524-b8ce-88d36f42b2bd",
-		"4bdaf7f2-799b-45ed-bd93-b7f7d0f05b9a"
+		"b83bc863-aebe-4524-b8ce-88d36f42b2bd"
 	],
-	"tilegroupsOrder": [
-		"24e28473-e54f-4d83-afba-e96c60262383"
-	],
+	"tilegroupsOrder": [],
 	"configMessage": {},
 	"navbarGroupOrder": [],
 	"sidebarGroupOrder": [],
-	"title": "Welcome to the Service Hub",
+	"title": "Service Hub Simple",
 	"subTitle": "Select an application. All apps share real-time data",
 	"menuText": "SERVICE HUB",
 	"description": null,
@@ -32,7 +29,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "26.04.20.0942",
+	"ver": "26.04.20.1746",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -46,7 +43,7 @@
 	"imageMobileHeight": null,
 	"imageTabletHeight": null,
 	"imageHeight": null,
-	"name": "prom-launchpad-designer-service",
+	"name": "prom-launchpad-designer-service-simple",
 	"cardContentWidth": null,
 	"cardContentAlign": null,
 	"cardPerRow": null,
@@ -115,28 +112,9 @@
 			"name": "prom-launchpad-designer-sales",
 			"title": "Sales Dashboard",
 			"ver": "26.04.22.0029"
-		},
-		{
-			"id": "4bdaf7f2-799b-45ed-bd93-b7f7d0f05b9a",
-			"name": "prom-launchpad-designer-workshop",
-			"title": "Inventory & Sustainability",
-			"ver": "26.04.19.1003"
 		}
 	],
-	"tilegroups": [
-		{
-			"id": "5f5e672a-229f-4618-94c3-45719ee5cd7e",
-			"name": "prom-launchpad-designer-advisory-simple",
-			"title": "Strategic Advisory Simple",
-			"ver": "26.04.20.1738"
-		},
-		{
-			"id": "24e28473-e54f-4d83-afba-e96c60262383",
-			"name": "prom-launchpad-designer-advisory",
-			"title": "Strategic Advisory",
-			"ver": "26.04.20.1035"
-		}
-	],
+	"tilegroups": [],
 	"navbarGroups": [],
 	"sidebarGroups": [],
 	"i18n": []

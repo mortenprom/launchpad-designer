@@ -7,6 +7,12 @@
 	"settings": {
 		"adaptive": {
 			"id": ""
+		},
+		"metric": {
+			"image": {
+				"width": "416",
+				"height": "234"
+			}
 		}
 	},
 	"title": "Technician Workflow",
@@ -25,7 +31,7 @@
 	"forceRow": false,
 	"frameType": null,
 	"type": null,
-	"image": null,
+	"image": "/media/root/prom-launchpad-designer/autumn.jpg",
 	"imageDark": null,
 	"icon": "sap-icon://wrench",
 	"backgroundType": null,
@@ -65,7 +71,7 @@
 	"helpTextFormatter": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "26.04.19.1002",
+	"ver": "26.04.21.1114",
 	"actionWebApp": "",
 	"name": "prom-launchpad-designer-technician",
 	"cardWidth": "Medium",
@@ -81,7 +87,7 @@
 	"imagePosition": null,
 	"forceAttributes": false,
 	"openText": null,
-	"imageHeight": null,
+	"imageHeight": "3rem",
 	"imageObjectFit": null,
 	"imageObjectPosition": null,
 	"bodyHeight": null,

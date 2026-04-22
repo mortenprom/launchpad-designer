@@ -4,7 +4,8 @@
 	"createdBy": "morten@neptune-software.com",
 	"translation": [],
 	"tilesOrder": [
-		"490aec38-37d6-404e-b0c0-e2525b141a99"
+		"490aec38-37d6-404e-b0c0-e2525b141a99",
+		"b83bc863-aebe-4524-b8ce-88d36f42b2bd"
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {},
@@ -29,7 +30,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "26.03.09.1012",
+	"ver": "26.04.20.1035",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -97,6 +98,12 @@
 	"lightTileLayouts": [],
 	"darkTileLayouts": [],
 	"tiles": [
+		{
+			"id": "b83bc863-aebe-4524-b8ce-88d36f42b2bd",
+			"name": "prom-launchpad-designer-sales",
+			"title": "Sales Dashboard",
+			"ver": "26.04.22.0029"
+		},
 		{
 			"id": "490aec38-37d6-404e-b0c0-e2525b141a99",
 			"name": "prom-launchpad-designer-advisor",
